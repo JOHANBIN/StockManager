@@ -1,0 +1,9 @@
+C:\Users\chohb88\source\repos\StockManager\StockManager.Domain\bin\Debug\netcoreapp3.1\StockManager.Domain.deps.json
+C:\Users\chohb88\source\repos\StockManager\StockManager.Domain\bin\Debug\netcoreapp3.1\StockManager.Domain.dll
+C:\Users\chohb88\source\repos\StockManager\StockManager.Domain\bin\Debug\netcoreapp3.1\StockManager.Domain.pdb
+C:\Users\chohb88\source\repos\StockManager\StockManager.Domain\obj\Debug\netcoreapp3.1\StockManager.Domain.AssemblyInfoInputs.cache
+C:\Users\chohb88\source\repos\StockManager\StockManager.Domain\obj\Debug\netcoreapp3.1\StockManager.Domain.AssemblyInfo.cs
+C:\Users\chohb88\source\repos\StockManager\StockManager.Domain\obj\Debug\netcoreapp3.1\StockManager.Domain.csproj.CoreCompileInputs.cache
+C:\Users\chohb88\source\repos\StockManager\StockManager.Domain\obj\Debug\netcoreapp3.1\StockManager.Domain.dll
+C:\Users\chohb88\source\repos\StockManager\StockManager.Domain\obj\Debug\netcoreapp3.1\StockManager.Domain.pdb
+C:\Users\chohb88\source\repos\StockManager\StockManager.Domain\obj\Debug\netcoreapp3.1\StockManager.Domain.csprojAssemblyReference.cache

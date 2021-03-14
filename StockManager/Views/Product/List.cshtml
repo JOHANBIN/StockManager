@@ -1,0 +1,44 @@
+﻿
+@{
+    ViewData["Title"] = "List";
+}
+@{
+    Layout = "_LayoutMain";
+}
+@using StockManager.Domain.Entities
+
+@model IEnumerable<Product>
+<body>
+    <div>
+        <table>
+            <th>일련번호</th>
+            <th>제품코드</th>
+            <th>제품명</th>
+            <th>등록날짜</th>
+            <th>출품여부</th>
+
+            @foreach (var p in Model)
+            {
+                <tr>
+                    <td>
+                        @p.SN
+                    </td>
+                    <td>
+                        @p.PCode
+                    </td>
+                    <td>
+                        @p.Name
+                    </td>
+                    <td>
+                        @p.RDate
+                    </td>
+                    <td>
+                        @p.InStock
+                    </td>
+                </tr>
+
+            }
+        </table>
+
+    </div>
+</body>
